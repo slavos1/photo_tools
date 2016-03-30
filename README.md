@@ -1,2 +1,3 @@
-# photo_tools
-Photo tools
+# Photo tools
+First will be finding photo duplicates.
+
